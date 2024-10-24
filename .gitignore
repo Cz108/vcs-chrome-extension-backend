@@ -1,0 +1,6 @@
+flask-backend/config/config.json
+flask-backend/venv/
+.dev-video-content-summarizer/
+flask-backend/blueprints/__pycache__/
+*.pyc
+
